@@ -18,3 +18,11 @@ If you are developing a production application, we recommend using TypeScript wi
 =======
 # FoodDelivery
 >>>>>>> 664ee2adbf6447267395bdfd8fd075e6935667ea
+
+## 🛠 Tech Stack
+- React
+- CSS / Tailwind
+- JavaScript
+  
+## 🔗 Live Demo
+aishwarya-food-delivery.netlify.app
