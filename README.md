@@ -26,3 +26,4 @@ If you are developing a production application, we recommend using TypeScript wi
   
 ## 🔗 Live Demo
 aishwarya-food-delivery.netlify.app
+https://aishwarya-food-delivery.netlify.app/
